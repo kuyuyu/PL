@@ -14,5 +14,5 @@
 ## 專題連結區
 ## 參考資料
 [Markdown語法](https://markdown.tw/#link)\
-[NBViewer - Jupyter Notebook](https://nbviewer.org/)\
-[Editor - JSON Crack](https://jsoncrack.com/editor) 以json檔去跑樹狀圖
+[NBViewer - Jupyter Notebook](https://nbviewer.org/) （輸入GitHub網址可呈現互動圖，複製該頁面的連結即可）\
+[Editor - JSON Crack](https://jsoncrack.com/editor) （以json檔去跑樹狀圖）
