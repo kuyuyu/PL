@@ -3,7 +3,7 @@
 姓名：古于育\
 系級：科技系二年級乙班
 ## 課程筆記區
-[任務一](https://github.com/kuyuyu/PL/blob/main/Task1/Task1.ipynb) 集合\
+[任務一](https://github.com/kuyuyu/PL/blob/main/Task1/Task%201.ipynb) 集合\
 [練習](https://github.com/kuyuyu/PL/blob/main/practice1/practice1.ipynb) 待修\
 [任務二](https://github.com/kuyuyu/PL/blob/main/Task2/Task2.ipynb) 加問三個問題以及視覺化資料\
 [任務三] json樹狀圖
