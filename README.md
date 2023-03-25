@@ -1,5 +1,6 @@
 # 111-2師大科技系程式語言
-授課教師：[蔡芸琤](https://github.com/pecu/PL)老師\
+授課教師：[蔡芸琤](https://github.com/pecu/PL)老師
+> ### 關於我...
 姓名：古于育\
 系級：科技系二年級乙班
 ## 課程筆記區
@@ -12,8 +13,8 @@
 [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題，使用NBViewer - Jupyter Notebook進行
 [跑圖](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW2/HW2.ipynb)
 ## 專題連結區
-### 參考資料
 ------------------------------
+### 參考資料
 [Markdown語法](https://markdown.tw/#link)\
 [NBViewer - Jupyter Notebook](https://nbviewer.org/) （輸入GitHub網址可呈現互動圖，複製該頁面的連結即可）\
 [Editor - JSON Crack](https://jsoncrack.com/editor) （以json檔去跑樹狀圖）
