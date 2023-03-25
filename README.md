@@ -9,7 +9,8 @@
 [任務三] json樹狀圖
 ## 作業連結區
 [作業一](https://github.com/kuyuyu/PL/blob/main/HW1/HW1.ipynb) 地震十個問題\
-[作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題
+[作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題\
+[跑圖](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW2/HW2.ipynb)
 ## 專題連結區
 ## 參考資料
 [Markdown語法](https://markdown.tw/#link)
