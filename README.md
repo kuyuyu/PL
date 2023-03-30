@@ -1,10 +1,12 @@
 # 111-2師大科技系程式語言
 授課教師：[蔡芸琤](https://github.com/pecu/PL)老師
-> ### 關於我...
+> ## 關於我...
 姓名：古于育\
 系級：科技系二年級乙班
 ## 課程筆記區
-[任務一](https://github.com/kuyuyu/PL/blob/main/Task1/Task%201.ipynb) 集合\
+[任務一](https://github.com/kuyuyu/PL/blob/main/Task1/Task%201.ipynb) 集合
+>[使用資料來源：小孩 V.S 大人最想要的哆啦A夢道具排行](https://kknews.cc/zh-tw/comic/5ob6qo3.html)
+
 [練習](https://github.com/kuyuyu/PL/blob/main/practice1/practice1.ipynb) 待修\
 [任務二](https://github.com/kuyuyu/PL/blob/main/Task2/Task2.ipynb) 加問三個問題以及視覺化資料\
 [任務三](https://github.com/kuyuyu/PL/blob/main/Task3/Task3.ipynb) json樹狀圖
