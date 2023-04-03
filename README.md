@@ -14,6 +14,8 @@
 [任務三](https://github.com/kuyuyu/PL/blob/main/Task3/Task3.ipynb) json樹狀圖
 >使用資料來源：[政府資料開放平台](https://data.gov.tw/dataset/157715)(109年原住民族十大死因統計)
 
+[任務四]
+
 ## 作業連結區
 [作業一](https://github.com/kuyuyu/PL/blob/main/HW1/HW1.ipynb) 地震十個問題\
 [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題
@@ -23,4 +25,6 @@
 [Markdown語法](https://markdown.tw/#link)\
 [NBViewer - Jupyter Notebook](https://nbviewer.org/) （輸入GitHub網址可呈現互動圖，複製該頁面的連結即可）\
 [Editor - JSON Crack](https://jsoncrack.com/editor) （以json檔去跑樹狀圖）\
-[Matplotlib 函數scatter 用於繪製泡泡圖](https://deepinout.com/matplotlib/matplotlib-function/matplotlib-function-scatter-2.html)(視覺化資料可以參考)
+[Matplotlib 函數scatter 用於繪製泡泡圖](https://deepinout.com/matplotlib/matplotlib-function/matplotlib-function-scatter-2.html)(視覺化資料可以參考)\
+[Regular expression 語法](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)\
+[練習regular expression的網站](https://regexr.com/)
