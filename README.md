@@ -24,7 +24,9 @@
 ## 作業連結區
 [作業一](https://github.com/kuyuyu/PL/blob/main/HW1/HW1.ipynb) 地震十個問題\
 [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題\
-[作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
+[作業三](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔\
+  由於[GitHub的作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb)顯示Unable to render rich display，因此改用NBViewer - Jupyter Notebook跑程式碼
+  
 ## 專題連結區
 ------------------------------
 ### 參考資料
