@@ -7,7 +7,7 @@
 [任務一](https://github.com/kuyuyu/PL/blob/main/Task1/Task%201.ipynb) 集合\
 ◇ 使用資料來源：[小孩 V.S 大人最想要的哆啦A夢道具排行](https://kknews.cc/zh-tw/comic/5ob6qo3.html)
 
-[練習](https://github.com/kuyuyu/PL/blob/main/practice1/practice1.ipynb) 待修
+[練習一](https://github.com/kuyuyu/PL/blob/main/practice1/practice1.ipynb) 日期時間待修
 
 [任務二](https://github.com/kuyuyu/PL/blob/main/Task2/Task2.ipynb) 加問三個問題以及視覺化資料\
 ◇ 使用資料來源：[中央氣象局地震測報中心](https://scweb.cwb.gov.tw/zh-tw/earthquake/data/)(2023年2月份資料)
@@ -18,10 +18,13 @@
 [任務四](https://github.com/kuyuyu/PL/blob/main/Task4/Task4.ipynb) Regular expression(以線上網路連結形式使用資料)\
 ◇ 使用資料來源：[理想混蛋( Bestards ) 共收藏20張專輯40首歌詞※ Mojim.com 魔鏡歌詞網](https://mojim.com/twh219017.htm)
 
+[練習二](https://github.com/kuyuyu/PL/blob/main/practice2/practice2.ipynb) 爬蟲待修\
+◇ 使用資料來源：[全國法規資料庫](https://law.moj.gov.tw/) (搜尋：土地、權利)
+
 ## 作業連結區
 [作業一](https://github.com/kuyuyu/PL/blob/main/HW1/HW1.ipynb) 地震十個問題\
 [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題\
-[作業三]
+[作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
 ## 專題連結區
 ------------------------------
 ### 參考資料
@@ -30,4 +33,5 @@
 [Editor - JSON Crack](https://jsoncrack.com/editor) （以json檔去跑樹狀圖）\
 [Matplotlib 函數scatter 用於繪製泡泡圖](https://deepinout.com/matplotlib/matplotlib-function/matplotlib-function-scatter-2.html)(視覺化資料可以參考)\
 [Regular expression 語法](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)\
-[練習regular expression的網站](https://regexr.com/)
+[練習regular expression的網站](https://regexr.com/)\
+[HTTP response status codes](https://learning.mlytics.com/the-internet/http-response-status-codes/)
