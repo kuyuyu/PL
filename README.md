@@ -22,16 +22,27 @@
 ◇ 使用資料來源：[全國法規資料庫](https://law.moj.gov.tw/) (搜尋：土地、權利)
 
 ## 作業連結區
-[作業一](https://github.com/kuyuyu/PL/blob/main/HW1/HW1.ipynb) 地震十個問題\
-[作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題\
-[作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
+- [作業一](https://github.com/kuyuyu/PL/blob/main/HW1/HW1.ipynb) 地震十個問題
+- [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題
+- [作業三](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
+  * 由於[GitHub的作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb)顯示Unable to render rich display，因此改用NBViewer - Jupyter Notebook跑程式碼
+  
 ## 專題連結區
 ------------------------------
 ### 參考資料
 [Markdown語法](https://markdown.tw/#link)\
-[NBViewer - Jupyter Notebook](https://nbviewer.org/) （輸入GitHub網址可呈現互動圖，複製該頁面的連結即可）\
-[Editor - JSON Crack](https://jsoncrack.com/editor) （以json檔去跑樹狀圖）\
 [Matplotlib 函數scatter 用於繪製泡泡圖](https://deepinout.com/matplotlib/matplotlib-function/matplotlib-function-scatter-2.html)(視覺化資料可以參考)\
 [Regular expression 語法](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)\
-[練習regular expression的網站](https://regexr.com/)\
-[HTTP response status codes](https://learning.mlytics.com/the-internet/http-response-status-codes/)
+[HTTP response status codes](https://learning.mlytics.com/the-internet/http-response-status-codes/) These status codes serve as a means of quick and concise communication on how the server worked on and responded to the client’s request.
+
+------------------------------
+### 網站資源
+[NBViewer - Jupyter Notebook](https://nbviewer.org/) （輸入GitHub網址可呈現互動圖，複製該頁面的連結即可）\
+[Editor - JSON Crack](https://jsoncrack.com/editor) （以json檔去跑樹狀圖）\
+[練習regular expression的網站](https://regexr.com/)
+
+------------------------------
+### 其他學習連結
+[網路爬蟲實戰教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF) 其他爬蟲的YouTube教學影片\
+[PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler) (jwlin's GitHub)\
+[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler) (linhung0319's GitHub)
