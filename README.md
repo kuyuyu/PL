@@ -1,5 +1,6 @@
 # 111-2師大科技系程式語言
-授課教師：[蔡芸琤](https://github.com/pecu/PL)老師
+授課教師：[蔡芸琤](https://github.com/pecu/PL)老師\
+老師的[Medium](https://github.com/kuyuyu/PL/tree/main/HW3)
 > ## 關於我...
 姓名：古于育\
 系級：科技系二年級乙班
@@ -28,6 +29,7 @@
 - [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題
 - [作業三](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
   * 由於[GitHub的作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb)顯示Unable to render rich display，因此改用NBViewer - Jupyter Notebook跑程式碼
+  * [作業三資料們](https://github.com/kuyuyu/PL/tree/main/HW3)
   
 ## 專題連結區
 ------------------------------
