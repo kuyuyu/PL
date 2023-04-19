@@ -1,7 +1,7 @@
 # 111-2師大科技系程式語言
-授課教師：[蔡芸琤](https://github.com/pecu/PL)老師\
-老師的[Medium](https://github.com/kuyuyu/PL/tree/main/HW3)
-> ## 關於我...
+授課教師：蔡芸琤老師
+* 老師的[Medium](https://pecutsai.medium.com/) & 老師的[GitHub](https://github.com/pecu/PL)
+> ## About ME
 姓名：古于育\
 系級：科技系二年級乙班
 ## 課程筆記區
