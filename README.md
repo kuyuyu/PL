@@ -27,7 +27,9 @@
 - [作業二](https://github.com/kuyuyu/PL/blob/main/HW2/HW2.ipynb) 視覺化資料以及看圖回答問題
 - [作業三](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
   * 由於[GitHub的作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb)顯示Unable to render rich display，因此改用NBViewer - Jupyter Notebook跑程式碼
-  * [作業三資料們](https://github.com/kuyuyu/PL/tree/main/HW3)
+  * HW3的[資料們](https://github.com/kuyuyu/PL/tree/main/HW3)
+- 作業四的[程式碼](https://github.com/kuyuyu/PL/blob/main/HW4/request_mojim_%E7%B5%82%E7%89%88.ipynb) & [Medium]
+  * HW4的[資料們](https://github.com/kuyuyu/PL/tree/main/HW4)
   
 ## 專題連結區
 ------------------------------
@@ -47,4 +49,10 @@
 ### 其他學習連結
 [網路爬蟲實戰教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF) 其他爬蟲的YouTube教學影片\
 [PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler) (jwlin's GitHub)\
-[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler) (linhung0319's GitHub)
+[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler) (linhung0319's GitHub)\
+* Python文字資料視覺化工具參考
+> [WordCloud](https://github.com/amueller/word_cloud)\
+  [TextBlob](https://github.com/sloria/TextBlob)\
+  [Voyant Tools](https://github.com/sgsinclair/VoyantServer)\
+  [Termgraph](https://github.com/mkaz/termgraph)\
+  [Glances](https://github.com/nicolargo/glances)
