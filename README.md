@@ -49,4 +49,10 @@
 ### 其他學習連結
 [網路爬蟲實戰教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF) 其他爬蟲的YouTube教學影片\
 [PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler) (jwlin's GitHub)\
-[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler) (linhung0319's GitHub)
+[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler) (linhung0319's GitHub)\
+* Python文字資料視覺化工具參考
+> [WordCloud](https://github.com/amueller/word_cloud)\
+  [TextBlob](https://github.com/sloria/TextBlob)\
+  [Voyant Tools](https://github.com/sgsinclair/VoyantServer)\
+  [Termgraph](https://github.com/mkaz/termgraph)\
+  [Glances](https://github.com/nicolargo/glances)
