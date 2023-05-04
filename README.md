@@ -28,7 +28,7 @@
 - [作業三](https://nbviewer.org/github/kuyuyu/PL/blob/main/HW3/HW3.ipynb) 爬蟲與資料正則化存成json檔
   * 由於[GitHub的作業三](https://github.com/kuyuyu/PL/blob/main/HW3/HW3.ipynb)顯示Unable to render rich display，因此改用NBViewer - Jupyter Notebook跑程式碼
   * HW3的[資料們](https://github.com/kuyuyu/PL/tree/main/HW3)
-- 作業四的[程式碼](https://github.com/kuyuyu/PL/blob/main/HW4/request_mojim_%E7%B5%82%E7%89%88.ipynb) & [Medium]
+- 作業四的[程式碼](https://github.com/kuyuyu/PL/blob/main/HW4/request_mojim_final.ipynb) & [Medium](https://medium.com/@gyy0812yu/%E5%A4%A7%E7%90%86%E6%83%B3%E5%B0%8F%E6%B7%B7%E8%9B%8B-d3af51eea9cf) 關於某理想混蛋歌迷衝向亂碼的故事記錄
   * HW4的[資料們](https://github.com/kuyuyu/PL/tree/main/HW4)
   
 ## 專題連結區
