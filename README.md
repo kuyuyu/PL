@@ -35,6 +35,8 @@
   * HW5的[資料們](https://nbviewer.org/github/kuyuyu/PL/tree/main/HW5/)
   
 ## 專題連結區
+[黑客松專題](https://github.com/kuyuyu/PL/tree/main/final)
+
 ------------------------------
 ### 參考資料
 [Markdown語法](https://markdown.tw/#link)\
