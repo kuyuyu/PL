@@ -35,7 +35,12 @@
   * HW5的[資料們](https://nbviewer.org/github/kuyuyu/PL/tree/main/HW5/)
   
 ## 專題連結區
-[黑客松專題](https://github.com/kuyuyu/PL/tree/main/final)
+[活動爬蟲一覽](https://github.com/kuyuyu/PL/tree/main/final)\
+新聞爬蟲：[性別平權](https://github.com/miilearn/111-2PL/blob/main/Final%20project%20gender.ipynb)
+[責任消費與生產](https://github.com/miilearn/111-2PL/blob/main/Final%20project%20consume.ipynb)
+[保育海洋生態](https://github.com/miilearn/111-2PL/blob/main/Final%20project%20ocean.ipynb)\
+[永續發展指標](https://www.figma.com/proto/A0RZXRU1NHPe2YOE2LPDqb/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)\
+[黑客松專題影片](https://www.youtube.com/watch?v=blNKPgFWVgo)
 
 ------------------------------
 ### 參考資料
